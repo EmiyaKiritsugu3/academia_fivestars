@@ -13,10 +13,6 @@ body {
     background-color: #000000; /* Preto */
 }
 
-h1, h2 {
-    color: #ff6600; /* Laranja */
-}
-
 header, footer {
     margin-bottom: 30px;
     padding: 20px 0;
@@ -38,31 +34,13 @@ ul li {
     margin: 10px 0;
 }
 
-a {
-    color: #ff6600; /* Laranja */
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
 footer {
     background-color: #000000; /* Preto */
     color: white;
     padding: 10px 0;
 }
 
-/* Estilo Adicional para Melhorar a Estética */
 .container {
-    max-width: 900px;
+    max-width: 800px;
     margin: auto;
-    padding: 20px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-    background: white;
-}
-
-h1.display-4 {
-    font-weight: 600;
-    margin-bottom: 15px;
 }
